@@ -11,6 +11,43 @@ Pull requests welcome! Or add an issue, or tweet
 
 ---
 
+## Workshops material
+
+- [Advanced R Markdown](https://arm.rbind.io/)
+- [Applied Machine Learning](https://github.com/topepo/rstudio-conf-2019)
+- [Big Data with R](https://github.com/rstudio/bigdataclass)
+- [Data Science in the Tidyverse](https://github.com/AmeliaMN/data-science-in-tidyverse.git)
+- Deep learning with R (Tensorflow) [day 1](https://github.com/Scavetta/conf_tensorflow_training_day1) and [day 2](https://github.com/rstudio/conf_tensorflow_training_day2)
+- [Introduction to Shiny and R Markdown workshop](https://github.com/dtkaplan/shinymark)
+- [Shiny in Production](https://github.com/kellobri/shiny-prod-book)
+- [Train-the-trainer workshop](https://github.com/rstudio-education/teaching-workshop-2019-01)
+- [What they forgot to teach you about R](https://jennybc.github.io/wtf-2019-rsc/)
+
+---
+
+ ## Wednesday 2019-01-16 ePosters
+
+ - Alex Gold, [@alexkgold](https://twitter.com/alexkgold),
+[Upgrading to R: Tips and mistakes you don't have to make](https://akgold.github.io/rsconf2019/)
+
+ - Leonard Kiefer, [@lenkiefer](https://twitter.com/lenkiefer),
+[Using R to Analyze Economic and Housing Market Trends](http://lenkiefer.com/2019/01/15/rstudioconf-poster/)
+
+ - Ted Laderas, [@tladeras](https://twitter.com/tladeras), and
+Jessica Minnier, [@datapointier](https://twitter.com/datapointier)
+[Democratizing data science using Shiny and LearnR](https://docs.google.com/presentation/d/1nCmo6EcrhyZZiQrXQkwYRCyimXbvNG20A84qlQ0YvTw/mobilepresent?slide=id.g36d32efe66_2_77)
+
+ - Nick Strayer, [@nicholasstrayer](https://twitter.com/nicholasstrayer)
+[Multimorbidity explorer: A shiny app for exploring EHR and biobank data](http://nickstrayer.me/rstudioconf19_me-poster/)
+
+ - Jeremy Wildfire, [@jwildfire](https://twitter.com/jwildfire),
+[Modernizing the clinical trial analysis pipeline with R and JavaScript](https://github.com/RhoInc/RStudioConf2019-ePoster/)
+
+ - Hiroaki Yutani [@yutannihilat_en](https://twitter.com/yutannihilat_en),
+[Introduction to gghighlight](https://github.com/yutannihilation/rstudioconf2019)
+
+---
+
 ## Thursday 2019-01-17
 
 ### 9:30 Keynote
@@ -44,7 +81,7 @@ Ursa Labs and Apache Arrow in 2019
 
 - Jonathan McPherson, [@jmcphers](https://twitter.com/jmcphers), RStudio, New language features in RStudio 1.2, ([example code and data](https://github.com/jmcphers/rstudio-1.2-features))
 
-- Edgar Ruiz, RStudio,
+- Edgar Ruiz, [@theotheredgar](https://twitter.com/theotheredgar), RStudio,
 Databases using R: The latest
 
 
@@ -64,8 +101,8 @@ R in production
 - Jeff Allen, RStudio,
 [RStudio Connect: Past, present, and future](http://rstd.io/rsc170)
 
-- Sean Lopp, RStudio,
-Announcing RStudio Package Manager
+- [Sean Lopp](https://twitter.com/lopp_sean), RStudio,
+[Announcing RStudio Package Manager](https://github.com/slopp/rspm-rstudioconf)
 
 
 ---
@@ -134,7 +171,7 @@ R Consortium initiatives in medicine
 [Melt the clock: Tidy time series analysis](https://slides.earo.me/rstudioconf19)
 
 
-- Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorgan), Institute for Defense Analyses,
+- Tyler Morgan-Wall, [@tylermorganwall](https://twitter.com/tylermorganwall), Institute for Defense Analyses,
 3D mapping, plotting, and printing with rayshader
 
 
@@ -189,8 +226,8 @@ Explicit direct instruction in programming education
 ### 10:30 Session 4, Track 1: org-thinking
 
 - James (JD) Long, [@CMastication](https://twitter.com/CMastication), Renaissance Re,
-Putting empathy in action: Building a `community of practice' for
-analytics in a global corporation
+[Putting empathy in action: Building a `community of practice' for
+analytics in a global corporation](https://cerebralmastication.com/prez/rstudio_conf_2019_main.html)
 
 - Tonya Filz, [@TonyaFilz](https://twitter.com/tonyafilz), RStudio,
 The resilient R champion
@@ -199,7 +236,7 @@ The resilient R champion
 [Cultivating creativity in data work](https://www.slideshare.net/mobile/hilaryparker/rstudioconf2019l)
 
 - Angela Bassa, [@AngeBassa](https://twitter.com/AngeBassa), iRobot,
-Data science as a team sport
+[Data science as a team sport](https://github.com/angelabassa/rstudioconf-2019)
 
 
 ### 10:30 Session 4, Track 2: programming
@@ -214,13 +251,13 @@ pkgman: A fresh approach to package installation
 [A preview of Rtools 4.0](https://jeroen.github.io/rstudio2019)
 
 - Miles McBain, [@MilesMcBain](https://twitter.com/MilesMcBain), ACEMS, Queensland University of Technology,
-Our colour of magic: The open sourcery of fantastic R packages
+[Our colour of magic: The open sourcery of fantastic R packages](https://github.com/MilesMcBain/rstudioconf_talk)
 
 
 ### 10:30 Session 4, Track 3: publication
 
 - Garrett Grolemund, [@StatGarrett](https://twitter.com/StatGarrett), RStudio,
-R Markdown: The bigger picture
+[R Markdown: The bigger picture](https://github.com/garrettgman/rmarkdown-the-bigger-picture)
 
 - Yihui Xie, [@xieyihui](https://twitter.com/xieyihui), RStudio,
 [pagedown: Creating beautiful PDFs with R Markdown and CSS](https://bit.ly/pagedown)
@@ -230,8 +267,8 @@ R Markdown: The bigger picture
 [Introducing the gt package](https://github.com/rich-iannone/presentations/tree/master/2019_01-19-rstudio_conf_gt)
 
 - Mike K Smith, [@MikeKSmith](https://twitter.com/MikeKSmith), Pfizer Ltd,
-The lazy and easily distracted report writer: Using rmarkdown and
-parameterized reports
+[The lazy and easily distracted report writer: Using rmarkdown and
+parameterized reports](https://github.com/MikeKSmith/RStudioConf2019)
 
 ---
 
@@ -255,14 +292,13 @@ RStudio Cloud for education
 - Hadley Wickham, [@hadleywickham](https://twitter.com/hadleywickham), RStudio,
 vctrs: Tools for making size and type consistent functions
 
-- Jenny Bryan, [@jennybryan](https://twitter.com/jennybryan), RStudio,
-Lazy evaluation
+- Jenny Bryan, [@jennybryan](https://twitter.com/jennybryan), RStudio, [Tidy eval in context](https://rstd.io/tidy-eval-context)
 
 - Lionel Henry, [@_lionelhenry](https://twitter.com/_lionelhenry), RStudio,
 [Working with names and expressions in your tidy eval code](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
 
 - Jesse Sadler, [@vivalosburros](https://twitter.com/vivalosburros), independent researcher,
-Learning and using the tidyverse for historical research
+[Learning and using the tidyverse for historical research](https://github.com/jessesadler/rstudioconf-2019-slides)
 
 
 ### 1:00 Session 5, Track 3: shiny
@@ -271,7 +307,7 @@ Learning and using the tidyverse for historical research
 [Effective use of Shiny modules in application development](https://rpodcast.github.io/rsconf-2019)
 
 - Barret Schloerke, [@schloerke](https://twitter.com/schloerke), RStudio,
-Reactlog 2.0: Debugging the state of Shiny
+[Reactlog 2.0: Debugging the state of Shiny](http://github.com/schloerke/presentation-2019-01-18-reactlog)
 
 - Alan Dipert, [@alandipert](https://twitter.com/alandipert), RStudio,
 Integrating React.js and Shiny
